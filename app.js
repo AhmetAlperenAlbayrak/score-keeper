@@ -47,3 +47,4 @@ resetButton.addEventListener('click' , () => {
     p1Display.textContent = 0;
     p2Display.textContent = 0;
 })
+
